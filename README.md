@@ -12,6 +12,9 @@
 ## Main Functionalities
 Magento2 Display Custom Form on Front End and save data in admin Grid. Complete module to save image field and display in grid. Also have list and view page on frontend with pagination.
 <p><img src="https://i.ibb.co/JQ6hsw1/Manage-Customform-Magento-Admin.png"></p>
+<p><img src="https://i.ibb.co/C6gDgFP/Manage-Customform-Magento-Admin1.png"></p>
+<p><img src="https://i.ibb.co/C1Y9jyF/12222.png"></p>
+<p><img src="https://ibb.co/190HdzV"></p>
 ## Installation
 \* = in production please use the `--keep-generated` option
 
