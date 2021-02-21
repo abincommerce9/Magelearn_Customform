@@ -37,7 +37,10 @@ Magento2 Display Custom Form on Front End and save data in admin Grid. Complete 
 
 ## Configuration
 
-
+- Front end URLs:
+    - for customform: `/customform/`
+    - for customform list page `/customform/index/list`
+    - for customform view page `/customform/index/view/id/**`
 
 
 ## Specifications
